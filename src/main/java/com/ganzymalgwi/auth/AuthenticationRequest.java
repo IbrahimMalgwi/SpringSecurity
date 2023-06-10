@@ -1,4 +1,4 @@
-package com.ibrahim.security.auth;
+package com.ganzymalgwi.auth;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -9,10 +9,8 @@ import lombok.RequiredArgsConstructor;
 @Builder
 @AllArgsConstructor
 @RequiredArgsConstructor
-public class RegisterRequest {
+public class AuthenticationRequest {
 
-    private String firstName;
-    private String lastName;
     private String email;
     private String password;
 }

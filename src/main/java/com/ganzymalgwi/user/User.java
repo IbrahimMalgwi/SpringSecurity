@@ -1,4 +1,4 @@
-package com.ibrahim.security.user;
+package com.ganzymalgwi.user;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

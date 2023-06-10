@@ -1,9 +1,9 @@
-package com.ibrahim.security.auth;
+package com.ganzymalgwi.auth;
 
-import com.ibrahim.security.config.JwtService;
-import com.ibrahim.security.user.Role;
-import com.ibrahim.security.user.User;
-import com.ibrahim.security.user.UserRepository;
+import com.ganzymalgwi.config.JwtService;
+import com.ganzymalgwi.user.Role;
+import com.ganzymalgwi.user.User;
+import com.ganzymalgwi.user.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

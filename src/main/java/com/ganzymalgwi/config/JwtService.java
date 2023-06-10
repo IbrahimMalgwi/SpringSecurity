@@ -1,4 +1,4 @@
-package com.ibrahim.security.config;
+package com.ganzymalgwi.config;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

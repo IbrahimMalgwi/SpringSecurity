@@ -1,4 +1,4 @@
-package com.ibrahim.security.config;
+package com.ganzymalgwi.config;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

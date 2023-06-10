@@ -1,4 +1,4 @@
-package com.ibrahim.security;
+package com.ganzymalgwi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

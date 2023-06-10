@@ -1,4 +1,4 @@
-package com.ibrahim.security.user;
+package com.ganzymalgwi.user;
 
 public enum Role {
     USER,
