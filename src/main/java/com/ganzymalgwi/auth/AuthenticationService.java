@@ -3,7 +3,7 @@ package com.ganzymalgwi.auth;
 import com.ganzymalgwi.config.JwtService;
 import com.ganzymalgwi.user.Role;
 import com.ganzymalgwi.user.User;
-import com.ganzymalgwi.user.UserRepository;
+import com.ganzymalgwi.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

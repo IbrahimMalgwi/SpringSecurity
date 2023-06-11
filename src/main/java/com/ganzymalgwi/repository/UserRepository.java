@@ -1,5 +1,6 @@
-package com.ganzymalgwi.user;
+package com.ganzymalgwi.repository;
 
+import com.ganzymalgwi.user.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

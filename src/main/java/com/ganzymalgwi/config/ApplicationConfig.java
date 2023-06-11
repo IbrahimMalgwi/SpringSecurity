@@ -1,6 +1,6 @@
 package com.ganzymalgwi.config;
 
-import com.ganzymalgwi.user.UserRepository;
+import com.ganzymalgwi.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
